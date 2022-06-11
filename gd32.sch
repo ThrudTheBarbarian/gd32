@@ -11635,7 +11635,7 @@ Button commonly used for reset or general input. Spark Fun Electronics SKU : COM
 <pinmap gate="G$1" pin="2" pinorder="2"/>
 </pinmapping>
 </spice>
-<attribute name="USE" value="ERJ-1GNJ472C"/>
+<attribute name="USE" value="WR06X152 JTL"/>
 </part>
 <part name="R8" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1K5">
 <spice>
@@ -11644,7 +11644,7 @@ Button commonly used for reset or general input. Spark Fun Electronics SKU : COM
 <pinmap gate="G$1" pin="2" pinorder="2"/>
 </pinmapping>
 </spice>
-<attribute name="USE" value="ERJ-1GNJ472C"/>
+<attribute name="USE" value="WR06X152 JTL"/>
 </part>
 <part name="PASS_RST" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X2" device="" package3d_urn="urn:adsk.eagle:package:22435/2"/>
 <part name="D4" library="Seeed-LED" deviceset="SMD-LED-CLEAR-BLUE(0402)" device="" value="GRN-0402">
