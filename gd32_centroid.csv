@@ -1,0 +1,59 @@
+Screaming Circuits SMD component position file.
+Created by Centroid_ScreamingCircuits_smd.ulp 1.2.0.
+
+Centroid Data for pc board: "gd32.brd" as of: 6/9/22 8:04 PM
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+BOOT_WHICH,Top,1.950,0.246,90
+C1,Top,0.817,2.458,180
+C2,Top,0.817,2.272,180
+C3,Top,0.817,2.522,180
+C4,Top,0.817,2.112,180
+C5,Top,0.817,1.703,180
+C6,Top,1.495,2.176,0
+C7,Top,1.495,2.362,0
+C8,Top,0.152,0.928,180
+C9,Top,1.468,2.874,180
+C10,Top,1.468,2.972,180
+C12,Top,1.100,0.593,270
+C13,Top,1.175,0.593,270
+C14,Bottom,1.101,1.079,270
+C15,Bottom,1.127,1.079,270
+C16,Bottom,1.153,1.079,270
+C17,Bottom,1.179,1.079,270
+C18,Bottom,1.235,1.051,0
+C19,Bottom,1.235,1.026,0
+C20,Bottom,1.235,1.001,0
+C21,Bottom,1.080,1.026,180
+C22,Bottom,1.080,1.001,180
+C23,Bottom,1.080,0.976,180
+C24,Bottom,1.080,0.926,180
+C25,Top,1.027,0.699,270
+C26,Bottom,1.113,0.913,90
+C27,Bottom,1.139,0.913,90
+C28,Bottom,1.205,0.913,90
+C34,Top,1.380,0.788,0
+D1,Top,1.419,3.071,270
+D4,Top,2.028,0.569,0
+D5,Top,2.028,0.621,0
+IC1,Top,1.152,0.998,90
+IC2,Top,1.714,2.972,0
+J1,Top,1.177,0.147,0
+POWER,Top,1.133,2.894,90
+PROG,Top,0.200,0.667,270
+Q2,Top,1.142,0.476,270
+R1,Top,0.231,0.928,0
+R2,Top,0.797,1.215,180
+R3,Top,0.797,1.265,180
+R4,Top,1.507,3.071,90
+R5,Top,2.127,0.653,90
+R6,Top,0.663,0.962,180
+R7,Top,0.665,0.371,90
+R8,Top,0.468,1.752,0
+R11,Top,1.855,0.569,0
+R12,Top,1.855,0.621,0
+R37,Top,0.468,1.608,0
+U1,Top,1.150,2.112,0
+USB_IN,Top,0.226,1.229,270
